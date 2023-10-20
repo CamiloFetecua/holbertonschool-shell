@@ -1,2 +1,2 @@
 #!/bin/bash
-./11-1_actual ./11-2_padre ./11-3_boot
+ls -la . .. /boot
