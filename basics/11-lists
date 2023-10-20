@@ -1,6 +1,2 @@
 #!/bin/bash
-ls -la
-cd ..
-ls -la
-cd /boot
-ls -la
+./11-1_actual ./11-2_padre ./11-3_boot
