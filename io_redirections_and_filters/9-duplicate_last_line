@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i '$!b;N;h;G' iacta
+printf '$-1,$c\n' | ed -s iacta
